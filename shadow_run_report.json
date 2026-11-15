@@ -1,0 +1,20 @@
+{
+    "benchmark_results": [
+        {
+            "method": "Greedy (Standard)",
+            "weight": 3999750,
+            "fee_btc": 0.994106,
+            "stale_risk": 0.02,
+            "ev_btc": 4.03672388
+        },
+        {
+            "method": "Trap Genotype Framework",
+            "weight": 3399750,
+            "fee_btc": 0.96221896,
+            "stale_risk": 0.005,
+            "ev_btc": 4.0667828651999995
+        }
+    ],
+    "ev_delta_btc": 0.030058985199999277,
+    "ev_delta_pct": 0.7446381296706198
+}
